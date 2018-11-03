@@ -16,3 +16,9 @@
 ## 产品选型
 * 关于**开发板**我们选择了乐鑫公司的ESP-WROVER-KIT作为我们的主开发板：
 ![image](https://github.com/RobinLu1209/E-Doggie/blob/master/ESP-WROVER-KIT.png)
+
+------
+## 11月3日-11月6日小长假待办事项
+-[]安装Arduino开发环境并学习使用
+-[]搭建小车模型，设计开发板摆放位置
+-[]完成PID算法的实现，并调试参数使得自平衡算法效果较优
