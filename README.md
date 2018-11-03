@@ -1,2 +1,5 @@
-# E-Doggie
-Project of Course EE397 in Shanghai Jiao Tong University
+# 基于ESP32的智能导盲陪伴犬E-Doggie
+
+------
+
+本项目为上海交通大学电子信息与电气工程学院电子工程系信息工程（卓越工程师班）EE397智能系统设计课程项目作业，为了更好地管理代码和记录任务进程，我们建立了本项目说明。
