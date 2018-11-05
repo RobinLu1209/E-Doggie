@@ -35,3 +35,7 @@
 [ESP32环境搭建(arduino)](https://blog.csdn.net/qq_35174914/article/details/79328043)
 
 [平衡小车与电机PID系列视频教程](http://training.eeworld.com.cn/video/14838)
+
+##Tips:
+
+IO21和IO22引脚是SDA和SCL的默认接口。
