@@ -36,6 +36,8 @@
 
 [平衡小车与电机PID系列视频教程](http://training.eeworld.com.cn/video/14838)
 
+[A4950电机驱动模块使用手册](https://wenku.baidu.com/view/b36c01766d175f0e7cd184254b35eefdc9d31519.html)
+
 ## Tips:
 
 IO21和IO22引脚是SDA和SCL的默认接口。[esp32在arduino1.8下的I2C引脚](https://blog.csdn.net/quangui666/article/details/81483645) 已将esp32头文件上传。
