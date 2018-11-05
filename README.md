@@ -24,6 +24,12 @@
 - [ ] 完成PID算法的实现，并调试参数使得自平衡算法效果较优
 
 ## 一些非常好用的材料和网页链接
+2018/11/4
+
 [一文读懂PID控制算法](https://blog.csdn.net/qq_25352981/article/details/81007075)
 
+2018/11/5
+
 [ESP-WROVER-KIT V4.1 入门指南](https://docs.espressif.com/projects/esp-idf/zh_CN/latest/get-started/get-started-wrover-kit.html)
+
+[ESP32环境搭建(arduino)](https://blog.csdn.net/qq_35174914/article/details/79328043)
