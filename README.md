@@ -36,6 +36,6 @@
 
 [平衡小车与电机PID系列视频教程](http://training.eeworld.com.cn/video/14838)
 
-##Tips:
+## Tips:
 
-IO21和IO22引脚是SDA和SCL的默认接口。
+IO21和IO22引脚是SDA和SCL的默认接口。[esp32在arduino1.8下的I2C引脚](https://blog.csdn.net/quangui666/article/details/81483645) 已将esp32头文件上传。
