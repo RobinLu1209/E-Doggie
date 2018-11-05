@@ -33,3 +33,5 @@
 [ESP-WROVER-KIT V4.1 入门指南](https://docs.espressif.com/projects/esp-idf/zh_CN/latest/get-started/get-started-wrover-kit.html)
 
 [ESP32环境搭建(arduino)](https://blog.csdn.net/qq_35174914/article/details/79328043)
+
+[平衡小车与电机PID系列视频教程](http://training.eeworld.com.cn/video/14838)
