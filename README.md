@@ -41,3 +41,6 @@
 ## Tips:
 
 IO21和IO22引脚是SDA和SCL的默认接口。[esp32在arduino1.8下的I2C引脚](https://blog.csdn.net/quangui666/article/details/81483645) 已将esp32头文件上传。
+
+#define PWMB 15     //Wrover是15，DevKitC是33 
+Wrover的晶振是40MHz,DevKitC是80MHz
