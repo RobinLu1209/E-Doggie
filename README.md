@@ -38,6 +38,8 @@
 
 [A4950电机驱动模块使用手册](https://wenku.baidu.com/view/b36c01766d175f0e7cd184254b35eefdc9d31519.html)
 
+[ESP32乐鑫相关]https://docs.espressif.com/projects/esp-idf/zh_CN/latest/get-started/get-started-wrover-kit.html#get-started-esp-wrover-kit-v4-1-camera-header）
+
 2018/11/28
 
 [串口调试助手](https://github.com/RobinLu1209/E-Doggie/raw/master/serial.rar)
