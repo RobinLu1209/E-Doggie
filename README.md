@@ -44,6 +44,13 @@
 
 [串口调试助手](https://github.com/RobinLu1209/E-Doggie/raw/master/serial.rar)
 
+2018/12/1
+
+尝试两块Arduino RoMeo BLE开发板，参数和相关介绍可见[详细的官方wiki](http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0305)RoMeo_BLE%E6%8E%A7%E5%88%B6%E5%99%A8V1.0_%E5%85%BC%E5%AE%B9Arduino)
+
+关于其蓝牙控制app以及相关可参见[GoBLE说明](http://wiki.dfrobot.com.cn/index.php/%E6%B5%B7%E7%9B%97%E8%88%B9%E5%A5%97%E4%BB%B6%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B_%E6%89%8B%E6%9C%BA%E9%81%A5%E6%8E%A7%E5%8A%9F%E8%83%BD)
+
+
 ## Tips:
 
 IO21和IO22引脚是SDA和SCL的默认接口。[esp32在arduino1.8下的I2C引脚](https://blog.csdn.net/quangui666/article/details/81483645) 已将esp32头文件上传。
