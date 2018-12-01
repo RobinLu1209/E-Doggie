@@ -16,7 +16,7 @@
 ## 产品选型
 * 关于**开发板**我们选择了乐鑫公司的ESP-WROVER-KIT作为我们的主开发板：
 ![image](https://github.com/RobinLu1209/E-Doggie/blob/master/ESP-WROVER-KIT.png)
-
+![image](https://github.com/RobinLu1209/E-Doggie/blob/master/picture/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20181201162024.png)
 ------
 ## 11月3日-11月6日小长假待办事项
 - [ ] 安装Arduino开发环境并学习使用
